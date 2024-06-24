@@ -35,7 +35,7 @@ set [ find default-name=wlan1 ] \
 /interface wireless security-profiles
 set [ find default=yes ] \
 	authentication-types=wpa2-psk \
-    group-key-update=12h
+	group-key-update=12h
 #
 # Enable WMM
 #

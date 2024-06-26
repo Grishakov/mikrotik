@@ -16,7 +16,7 @@ set [ find default-name=wlan1 ] \
 #
 # 5 ghz
 #
-set [ find default-name=wlan1 ] \
+set [ find default-name=wlan2 ] \
 	band=5ghz-a/n/ac \
 	adaptive-noise-immunity=ap-and-client-mode \
 	channel-width=20/40/80mhz-XXXX \
